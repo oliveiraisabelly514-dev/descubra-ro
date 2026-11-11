@@ -8,11 +8,11 @@ O **Descubra RO** é um projeto acadêmico desenvolvido na disciplina de **Ergon
 
 A proposta é criar um guia turístico digital que valorize os destinos, a cultura, a gastronomia e as belezas naturais do estado de Rondônia.
 
-O objetivo é oferecer uma experiência intuitiva, acessível e agradável, permitindo que moradores e visitantes descubram lugares para conhecer e explorar pelo estado.
+Oferecer uma experiência intuitiva, acessível e agradável, permitindo que moradores e visitantes descubram lugares para conhecer e explorar pelo estado.
 
 ## 🎯 Objetivo
 
-Desenvolver uma plataforma digital de turismo que reúna informações sobre destinos turísticos de Rondônia, facilitando a descoberta de locais e o acesso a conteúdos relevantes para visitantes e moradores.
+Desenvolver uma plataforma digital de turismo que reúna informações sobre destinos turísticos e gastronômicos de Rondônia, facilitando a descoberta de locais e o acesso a conteúdos relevantes para visitantes e moradores.
 
 ## 🧭 Funcionalidades previstas
 
@@ -24,14 +24,14 @@ Desenvolver uma plataforma digital de turismo que reúna informações sobre des
 - Favoritos.
 - Sugestões de roteiros turísticos.
 
-*As funcionalidades poderão ser ajustadas durante o desenvolvimento.*
+As funcionalidades poderão ser ajustadas durante o desenvolvimento.
 
 ## 👥 Equipe Descubra RO
 
 | Integrante | Função técnica | Papel de gestão |
 |---|---|---|
-| Letícia de Araújo Ribeiro | Web Designer / Frontend | Support Manager |
 | Isabelly Oliveira Macedo dos Santos | Desenvolvedora | Planning Manager |
+| Letícia de Araújo Ribeiro | Web Designer / Frontend | Support Manager |
 | Gabriel da Silva Pereira | Analista de Qualidade e Teste | Quality Manager e Team Leader |
 
 ## 🛠️ Tecnologias utilizadas
@@ -48,9 +48,11 @@ Desenvolver uma plataforma digital de turismo que reúna informações sobre des
 
 O projeto será desenvolvido como um guia turístico digital, com foco na organização das informações, na experiência do usuário e na apresentação dos destinos de Rondônia.
 
-## 📋 Planejamento do projeto
+## 📋 Planejamento e acompanhamento
 
-O acompanhamento das atividades será realizado pelo GitHub Projects, utilizando um quadro Kanban para organizar as tarefas e acompanhar seu andamento.
+O planejamento e o acompanhamento das atividades serão realizados pelo **GitHub Projects**, utilizando um quadro Kanban para organizar as tarefas e acompanhar seu andamento.
+
+Cada atividade será registrada por meio de Issues, com descrição, responsável e prazo previsto.
 
 [Descubra RO — Planejamento do Projeto](https://github.com/users/oliveiraisabelly514-dev/projects/6/views/1)
 
@@ -60,18 +62,30 @@ O acompanhamento das atividades será realizado pelo GitHub Projects, utilizando
 
 As instruções para executar e visualizar o produto serão adicionadas após a implementação da versão inicial.
 
-## 📊 Registros e acompanhamento
+## 📊 Registros e documentação
 
-- Planejamento e cronograma: a disponibilizar.
-- Planilha PSP — Isabelly: a disponibilizar.
-- Planilha PSP — Letícia: a disponibilizar.
-- Planilha PSP — Gabriel: a disponibilizar.
-- Registros de reuniões e atividades: a disponibilizar.
-- Retrospectiva do projeto: a disponibilizar.
+A documentação do projeto será organizada no repositório e incluirá:
+
+- Planejamento e cronograma do projeto.
+- Registros das reuniões e atividades da equipe.
+- Planilhas PSP individuais dos integrantes.
+- Registros de revisões, testes e correções.
+- Retrospectiva final do projeto.
+
+Os registros de andamento das tarefas serão acompanhados pelo GitHub Projects, pelas Issues e pelo histórico de commits.
+
 
 ## 🤖 Uso de inteligência artificial
 
-As ferramentas de inteligência artificial utilizadas durante o projeto serão registradas, incluindo as atividades apoiadas, os comandos utilizados e o tempo dedicado às interações.
+Durante o desenvolvimento do Descubra RO, a equipe utilizou o ChatGPT (OpenAI) como ferramenta de apoio em diferentes atividades, incluindo:
+
+- **Planejamento:** auxílio na organização de ideias, definição de funcionalidades e estruturação das etapas do projeto.
+- **Documentação:** apoio na elaboração e revisão de textos e registros do projeto.
+- **Desenvolvimento:** consulta para esclarecimento de dúvidas pontuais relacionadas às tecnologias e ferramentas utilizadas no projeto.
+
+A ferramenta foi utilizada como recurso de consulta e suporte, enquanto as decisões e a execução das atividades permaneceram sob responsabilidade da equipe.
+
+
 
 ## 📅 Cronograma
 
@@ -83,6 +97,6 @@ As ferramentas de inteligência artificial utilizadas durante o projeto serão r
 | Entrega final | 18/11/2026 |
 
 ---
+**Projeto acadêmico — Equipe Descubra RO**
 
-**Projeto acadêmico — Equipe Descubra RO**  
 **2026**
