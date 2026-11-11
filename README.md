@@ -30,8 +30,8 @@ Desenvolver uma plataforma digital de turismo que reúna informações sobre des
 
 | Integrante | Função técnica | Papel de gestão |
 |---|---|---|
-| Isabelly Oliveira Macedo dos Santos | Web Designer / Frontend | Support Manager |
-| Letícia de Araújo Ribeiro | Desenvolvedora | Planning Manager |
+| Letícia de Araújo Ribeiro | Web Designer / Frontend | Support Manager |
+| Isabelly Oliveira Macedo dos Santos | Desenvolvedora | Planning Manager |
 | Gabriel da Silva Pereira | Analista de Qualidade e Teste | Quality Manager e Team Leader |
 
 ## 🛠️ Tecnologias utilizadas
