@@ -1,32 +1,30 @@
-#  Descubra RO — Guia Turístico de Rondônia
+# Descubra RO — Guia Turístico de Rondônia
 
-**Explore. Conheça. Viva Rondônia.**
-
-##  Sobre o projeto
+## Sobre o projeto
 
 O **Descubra RO** é um projeto acadêmico desenvolvido na disciplina de **Ergonomia de Sistemas Computacionais e Interação Humano-Computador (IHC)**.
 
 A proposta é criar um guia turístico digital que valorize os destinos, a cultura, a gastronomia e as belezas naturais do estado de Rondônia.
 
-Oferecer uma experiência intuitiva, acessível e agradável, permitindo que moradores e visitantes descubram lugares para conhecer e explorar pelo estado.
+O portal busca oferecer uma experiência intuitiva, acessível e agradável, permitindo que moradores e visitantes descubram lugares para conhecer e explorar pelo estado.
 
-##  Objetivo
+## Objetivo
 
 Desenvolver uma plataforma digital de turismo que reúna informações sobre destinos turísticos e gastronômicos de Rondônia, facilitando a descoberta de locais e o acesso a conteúdos relevantes para visitantes e moradores.
 
-##  Funcionalidades previstas
+## Funcionalidades do projeto
 
 - Página inicial com destaques turísticos.
 - Pesquisa de destinos.
 - Categorias turísticas.
 - Informações e detalhes dos destinos.
 - Imagens e descrições dos locais.
-- Favoritos.
-- Sugestões de roteiros turísticos.
+- Sistema de favoritos.
+- Histórias e conteúdos sobre os destinos.
+- Carrossel de destaques.
+- Recursos de navegação e filtros para facilitar a exploração do portal.
 
-As funcionalidades poderão ser ajustadas durante o desenvolvimento.
-
-##  Equipe Descubra RO
+## Equipe Descubra RO
 
 | Integrante | Função técnica | Papel de gestão |
 |---|---|---|
@@ -34,7 +32,7 @@ As funcionalidades poderão ser ajustadas durante o desenvolvimento.
 | Letícia de Araújo Ribeiro | Web Designer / Frontend | Support Manager |
 | Gabriel da Silva Pereira | Analista de Qualidade e Teste | Quality Manager e Team Leader |
 
-##  Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML
 - CSS
@@ -42,50 +40,66 @@ As funcionalidades poderão ser ajustadas durante o desenvolvimento.
 - Git e GitHub
 - Visual Studio Code
 
-##  Caminho escolhido
+## Caminho escolhido
 
 **Caminho B — Desenvolvimento de um sistema ou site mais completo.**
 
-O projeto será desenvolvido como um guia turístico digital, com foco na organização das informações, na experiência do usuário e na apresentação dos destinos de Rondônia.
+O projeto foi desenvolvido como um guia turístico digital, com foco na organização das informações, na experiência do usuário e na apresentação dos destinos de Rondônia.
 
-##  Planejamento e acompanhamento
+## Planejamento e acompanhamento
 
-O planejamento e o acompanhamento das atividades serão realizados pelo **GitHub Projects**, utilizando um quadro Kanban para organizar as tarefas e acompanhar seu andamento.
+O planejamento e o acompanhamento das atividades são realizados pelo **GitHub Projects**, utilizando um quadro Kanban para organizar as tarefas e acompanhar seu andamento.
 
-Cada atividade será registrada por meio de Issues, com descrição, responsável e prazo previsto.
+Cada atividade é registrada por meio de Issues, com descrição, responsável e prazo previsto.
 
-[Descubra RO — Planejamento do Projeto](https://github.com/users/oliveiraisabelly514-dev/projects/6/views/1)
+**Acessos:**
 
-##  Como visualizar o produto
+- [Descubra RO — Repositório no GitHub](https://github.com/oliveiraisabelly514-dev/descubra-ro)
+- [Descubra RO — Planejamento do Projeto (GitHub Projects)](https://github.com/users/oliveiraisabelly514-dev/projects/6/views/1)
+- [Issues do projeto](https://github.com/oliveiraisabelly514-dev/descubra-ro/issues)
 
-**Status:** Em desenvolvimento.
+## Como visualizar o produto
 
-As instruções para executar e visualizar o produto serão adicionadas após a implementação da versão inicial.
+**Status:** Publicado no GitHub Pages — em fase de finalização.
 
-##  Registros e documentação
+O portal pode ser acessado diretamente pelo link:
 
-A documentação do projeto será organizada no repositório e incluirá:
+**[Acessar o Descubra RO](https://oliveiraisabelly514-dev.github.io/descubra-ro/)**
+
+O código-fonte e os arquivos utilizados no desenvolvimento estão disponíveis no repositório público do GitHub.
+
+## Registros e documentação
+
+A documentação do projeto reúne os registros de planejamento, acompanhamento, execução e avaliação das atividades realizadas pela equipe.
+
+### Planilhas do projeto
+
+- [PSP Individual — Isabelly Oliveira](https://docs.google.com/spreadsheets/d/1BmjMiC8HFLvNp0YgGnMXB7p8OMHVDQjqpEVqIhXr4ws/edit?usp=sharing)
+- [Registros do Time](https://docs.google.com/spreadsheets/d/1ve_JYyNUyPC7J22YTcTpHnU5eY6f7Tgsm3HC_gfrbRU/edit?usp=sharing)
+- [PSP Individual — Letícia de Araújo](https://docs.google.com/spreadsheets/d/11sLSwln-AovXgbzVx1Lx4PpipJtWa9O-gxEEwb3KToE/edit?usp=sharing)
+- [PSP Individual — Gabriel da Silva](https://docs.google.com/spreadsheets/d/1SJNlcbZMeeqFN6NjsNznplDmlZ6adK-to4TikwbSZVo/edit?usp=sharing)
+
+A documentação também contempla:
 
 - Planejamento e cronograma do projeto.
 - Registros das reuniões e atividades da equipe.
-- Planilhas PSP individuais dos integrantes.
-- Registros de revisões, testes e correções.
+- Estimativas e registros de tempo individuais (PSP).
+- Revisões, testes e correções.
 - Retrospectiva final do projeto.
 
-Os registros de andamento das tarefas serão acompanhados pelo GitHub Projects, pelas Issues e pelo histórico de commits.
+Os registros de andamento das tarefas também são acompanhados pelo GitHub Projects, pelas Issues e pelo histórico de commits.
 
+## Uso de inteligência artificial
 
-##  Uso de inteligência artificial
+Durante o desenvolvimento do Descubra RO, a equipe utilizou ferramentas de inteligência artificial como recursos de apoio ao planejamento, desenvolvimento, documentação e revisão do projeto.
 
-Durante o desenvolvimento do Descubra RO, a equipe utilizou o ChatGPT (OpenAI) como ferramenta de apoio em diferentes atividades, incluindo:
+As ferramentas utilizadas foram:
 
-- **Planejamento:** auxílio na organização de ideias, definição de funcionalidades e estruturação das etapas do projeto.
-- **Documentação:** apoio na elaboração e revisão de textos e registros do projeto.
-- **Desenvolvimento:** consulta para esclarecimento de dúvidas pontuais relacionadas às tecnologias e ferramentas utilizadas no projeto.
+- **ChatGPT (OpenAI):** apoio na organização de ideias, definição de funcionalidades, elaboração e revisão de textos e esclarecimento de dúvidas técnicas.
+- **OpenAI Codex:** auxílio na escrita, análise, edição e melhoria do código-fonte, contribuindo para a implementação e os ajustes das funcionalidades do portal.
+- **GitHub Copilot:** suporte à programação, com sugestões de código, auxílio na implementação de funcionalidades e otimização do desenvolvimento.
 
-A ferramenta foi utilizada como recurso de consulta e suporte, enquanto as decisões e a execução das atividades permaneceram sob responsabilidade da equipe.
-
-
+As ferramentas foram utilizadas como recursos de consulta e assistência durante o processo de desenvolvimento. As decisões, validações e responsabilidades pela execução do projeto permaneceram sob responsabilidade dos integrantes da equipe.
 
 ## Cronograma
 
@@ -94,6 +108,7 @@ A ferramenta foi utilizada como recurso de consulta e suporte, enquanto as decis
 | Início do planejamento | 04/11/2026 |
 | Checkpoint do planejamento | 11/11/2026 |
 | Desenvolvimento e testes | 13 a 17/11/2026 |
-| Entrega final | 18/11/2026 |
+| Finalização da documentação | 24/11/2026 |
+| Entrega final | **25/11/2026** |
 
 ---
