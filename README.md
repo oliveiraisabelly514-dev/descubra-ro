@@ -64,6 +64,8 @@ Cada atividade é registrada por meio de Issues, com descrição, responsável e
 
 O portal pode ser acessado diretamente pelo link:
 
+**[Acessar a apresentação do projeto](https://oliveiraisabelly514-dev.github.io/descubra-ro/apresentacao-descubra-ro.html)**
+
 **[Acessar o Descubra RO](https://oliveiraisabelly514-dev.github.io/descubra-ro/)**
 
 O código-fonte e os arquivos utilizados no desenvolvimento estão disponíveis no repositório público do GitHub.
